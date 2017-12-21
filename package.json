@@ -1,0 +1,29 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "learn express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamBansal1997/learn-node-express.git"
+  },
+  "keywords": [
+    "learn",
+    "express",
+    "node"
+  ],
+  "author": "Shubham Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamBansal1997/learn-node-express/issues"
+  },
+  "homepage": "https://github.com/ShubhamBansal1997/learn-node-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
