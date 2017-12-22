@@ -1,17 +1,18 @@
 {
   "development": {
-    "username": "root",
+    "username": null,
     "password": null,
-    "database": "database_development",
+    "database": "todo-dev",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres",
+    "port": 5432
   },
   "test": {
-    "username": "root",
+    "username": "",
     "password": null,
-    "database": "database_test",
+    "database": "todos-dev",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "postgres"
   },
   "production": {
     "username": "root",
